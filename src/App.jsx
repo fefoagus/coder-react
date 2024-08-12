@@ -43,7 +43,7 @@ const App = () => {
           </main>
 
           <footer>
-            <a href="https://github.com/mderlich/ecommerce" target="_blank">
+            <a href="https://github.com/fefoagus/coder-react" target="_blank">
               Hecho con paciencia
             </a>
           </footer>
