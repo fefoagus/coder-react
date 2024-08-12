@@ -1,0 +1,41 @@
+.btn {
+  background-color: #292b2e;
+  border: none;
+}
+.btn1{
+  width: 87%;
+}
+.btn:hover {
+  background-color: #0d0e0f;
+}
+.elim:hover{
+  background-color: rgb(236, 86, 86);
+}
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+}
+
+.btn-outline-success{
+  color: floralwhite;
+}
+
+.action-button {
+  background-color: #292b2e; /* Color de fondo del botón */
+  color: #fff; /* Color del texto del botón */
+  border: none; /* Sin borde */
+  border-radius: 4px; /* Borde redondeado */
+  padding: 8px 12px; /* Espaciado interno */
+  font-size: 16px; /* Tamaño de la fuente */
+  margin: 0 5px; /* Margen entre botones */
+  cursor: pointer; /* Cursor al pasar por encima */
+  width: 80px;
+}
+.espa{
+  margin: auto;
+}
+.action-button:hover {
+  background-color: #0d0e0f; /* Color de fondo al pasar el cursor por encima */
+}
